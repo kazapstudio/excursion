@@ -1,35 +1,21 @@
-h3,
-p {
-  font-family: "Helvetica", sans-serif;
+
+body{
+  font-family: "Veranda", sans-serif;
+  text-align: center;
+  background-color: black
 }
 
-h1{
-  color: khaki;
-  font-family: "Helvetica", sans-serif;
-  font-weight: bold;
-  font-size: 100px;
+.cta{
+  color: Aquamarine;
+  font-size: 16pt;
 }
-
-h2 {
-  color: white;
-  font-family: "Helvetica", sans-serif;
-  font-weight: bold;
-  font-size: 32px;
+title{
+  font-family: "Veranda", sans-serif;
+  font-weight: normal
+  font-size: 50pt
+  color: white
+  text-align:center;
 }
-
-.brushes h2{
-  background-color: mediumspringgreen;
-}
-
-.frames h2{
-  background-color: lightcoral;
-}
-
-.paint h2{
-  background-color: skyblue;
-}
-
-.title{
-  background-image: url(”../images/pattern.jpg”)
-  background-size: 600px 110px;
+p{
+  text-align: center;
 }
